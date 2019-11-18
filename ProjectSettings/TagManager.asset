@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gateway
+  - Interactable
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obsticle
+  - Camera
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2646714443
+    locked: 0
+  - name: Paths
+    uniqueID: 1030980151
+    locked: 0
+  - name: Pickups
+    uniqueID: 1362765215
+    locked: 0
+  - name: Water
+    uniqueID: 2298679701
+    locked: 0
+  - name: Walls
+    uniqueID: 3593780243
+    locked: 0
+  - name: Gates
+    uniqueID: 3805614619
+    locked: 0
+  - name: Player
+    uniqueID: 17852125
+    locked: 0
+  - name: Top
+    uniqueID: 762219745
+    locked: 0
